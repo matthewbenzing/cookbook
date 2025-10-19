@@ -1,9 +1,10 @@
 #Guacamole
 ##Ingredients
 *Avacado
-*Lemon
+*Lime
 *Garlic
 *Salt
+*Tabasco
 ##Instructions
 1 Mash avacado
 2 Juice Lemon

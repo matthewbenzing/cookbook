@@ -6,6 +6,7 @@
 *Salt
 *Tabasco
 ##Instructions
-1 Mash avacado
-2 Juice Lemon
-3 Press garlic
+1 Put avacado in mixing bowl
+2 Mash avacado
+3 Juice Lemon
+4 Press garlic
